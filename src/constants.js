@@ -26,3 +26,18 @@ export const PROGRESSBAR_STYLES = {
     radius: 8,
   },
 };
+
+export const ICON_STYLES = {
+  small: {
+    fontSize: 14,
+    iconSize: 16,
+    borderThickness: 1,
+    height: 24,
+  },
+  large: {
+    fontSize: 18,
+    iconSize: 24,
+    borderThickness: 2,
+    height: 36,
+  },
+};
