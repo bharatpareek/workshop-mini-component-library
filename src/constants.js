@@ -8,3 +8,21 @@ export const COLORS = {
   transparentGray15: 'hsl(0deg 0% 50% / 0.15)',
   transparentGray35: 'hsl(0deg 0% 50% / 0.35)',
 };
+
+export const PROGRESSBAR_STYLES = {
+  small: {
+    height: 8,
+    padding: 0,
+    radius: 4,
+  },
+  medium: {
+    height: 12,
+    padding: 0,
+    radius: 4,
+  },
+  large: {
+    height: 16,
+    padding: 4,
+    radius: 8,
+  },
+};
